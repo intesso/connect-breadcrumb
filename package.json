@@ -1,0 +1,27 @@
+{
+  "name": "connect-breadcrumb",
+  "version": "1.0.0",
+  "description": "breadcrumb middleware for express and connect",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"run url-breadcrumb tests\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/intesso/connect-breadcrumb.git"
+  },
+  "keywords": [
+    "url",
+    "breadcrumb",
+    "navigation"
+  ],
+  "author": "Andi Neck",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/intesso/connect-breadcrumb/issues"
+  },
+  "homepage": "https://github.com/intesso/connect-breadcrumb#readme",
+  "dependencies": {
+    "url-breadcrumb": "^1.0.1"
+  }
+}
