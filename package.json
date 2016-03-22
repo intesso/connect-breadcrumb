@@ -1,6 +1,6 @@
 {
   "name": "connect-breadcrumb",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "breadcrumb middleware for express and connect",
   "main": "index.js",
   "scripts": {
@@ -12,8 +12,12 @@
   },
   "keywords": [
     "url",
+    "path",
     "breadcrumb",
-    "navigation"
+    "navigation",
+    "express",
+    "connect",
+    "middleware"
   ],
   "author": "Andi Neck",
   "license": "MIT",
